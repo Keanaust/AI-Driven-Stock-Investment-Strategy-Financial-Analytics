@@ -58,7 +58,7 @@ This project showcases a machine learning (ML)-driven investment strategy develo
 
 - **Portfolio Construction Date**: December 31, 2023.
 - **Outcome**: ML-predicted portfolio **underperformed** the market in Q1 2024.
-- **Insight**: Reinforced the importance of **adapting models to market regimes** and external macro conditions.
+- **Insight**: Reinforced the importance of **adapting models to market sentiment** and external macro conditions.
 
 ---
 
@@ -80,7 +80,7 @@ We prompted ChatGPT with:
 
 ## Key Insights
 
-- **No One-Size-Fits-All**: ML signals vary based on market regime.
+- **No One-Size-Fits-All**: ML signals vary based on market sentiment.
 - **ML Works Best When Tuned Dynamically**: Static models struggle to adapt in changing environments.
 - **GPT Shows Potential**: LLMs can act as complementary tools in strategy development.
 - **Product Not Ready Yet**: But we’ve laid a strong foundation.
