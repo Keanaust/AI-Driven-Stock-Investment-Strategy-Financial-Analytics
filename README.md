@@ -85,3 +85,10 @@ We prompted ChatGPT with:
 - **GPT Shows Potential**: LLMs can act as complementary tools in strategy development.
 - **Product Not Ready Yet**: But we’ve laid a strong foundation.
 
+  ---
+
+## Output & Results
+
+- **Check the Final_Model Script for detailed results!**
+
+
